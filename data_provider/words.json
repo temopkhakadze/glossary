@@ -1,0 +1,2199 @@
+[
+    {
+      "word": "Axiom",
+      "def": "a statement or proposition which is regarded as being established, accepted, or self-evidently true.",
+      "rel": "აქსიომა",
+      "ex": "Examples of axioms can be 2+2=4, 3 x 3=4 etc. In geometry, we have a similar statement that a line can extend to infinity. This is an Axiom because you do not need a proof to state its truth as it is evident in itself.",
+      "img": "<img src=\"\">"
+    },
+    {
+      "word": "Binary number",
+      "def": "a number expressed in the base-2 numeral system or binary numeral system, a method of mathematical expression which uses only two symbols: typically \"0\" (zero) and \"1\" (one).",
+      "rel": "ორობითი/ბინარული რიცხვი",
+      "ex": "5 = 0101 in binary, 10 = 1010 2 = 0010",
+      "img": "<img src=\"images/binarynmb.png\">"
+    },
+    {
+      "word": "Commutativity",
+      "def": "an operation is commutative if changing the order of the operands does not change the result. ",
+      "rel": "კომუტაციურობა / გადანაცვლებადობა",
+      "ex": "Addition example: 3 + 2 = 2 + 3 ; Multiplication  example: 4 x 6 = 6 x 4",
+      "img": "<img src=\"images/comm.png\">"
+    },
+    {
+      "word": "Concatenation",
+      "def": "to merge two things together",
+      "rel": "კონკატენცია, შეერთება ",
+      "ex": "𝑑𝑓𝑔𝑟°𝑔𝑓𝑡= 𝑑𝑓𝑔𝑟𝑔𝑓𝑡",
+      "img": "<img src=\"images/concat.png\">"
+    },
+    {
+      "word": "Definition",
+      "def": "a statement of the meaning of a term (a word, phrase, or other set of symbols)",
+      "rel": "განმარტება",
+      "ex": "x+0 = x (definition of addition)",
+      "img": "<img src=\"images/definition.png\">"
+    },
+    {
+      "word": "Derivation tree",
+      "def": "a graphical representation for the derivation of the given production rules for a given CFG. It is the simple way to show how the derivation can be done to obtain some string from a given set of production rules. The derivation tree is also called a parse tree.",
+      "rel": "წარმოებულების ხე",
+      "ex": "E = E + E <br> E = E * E  <br> E = a | b | c  ",
+      "img": "<img src=\"images/derivation.png\">"
+    },
+    {
+      "word": "Discrete mathematics",
+      "def": "School (continuous) mathematics is based upon continuous number line, or real numbers. That means that between any two numbers there is an infinity of numbers. Discrete mathematics involves distinct or separable values, and between any two points there is a countable number of points. ",
+      "rel": "დისკრეტული(განცალკევებული) მათემატიკა",
+      "ex": "Logical True/False (1/0) : there is no 0.1, 0.001 value, it's either distinctly True or False.",
+      "img": "<img src=\"images/dsMath.png\">"
+    },
+    {
+      "word": "Graph",
+      "def": "A structure made of objects in which these objects are \"related\". Usually shown as a set of dots(objects) connected by lines(relations).",
+      "rel": "გრაფი",
+      "ex": "A family tree is a graph, a computer network",
+      "img": "<img src=\"images/graph.png\">"
+    },
+    {
+      "word": "Lemma",
+      "def": "A generally minor, proven proposition which is used as a stepping stone to a larger result. For that reason,  It is also known as a \"Helping Theorem\" or an \"Auxilary Theorem\"",
+      "rel": "სალექსიკონო ერთეული, ცნება, რომელიც განმარტებულია ლექსიკონში",
+      "ex": "Zorn’s lemma (Maximum principle). Let M be a partially ordered set in which every chain possesses an upper bound. Then there is in M a least one maximal element.",
+      "img": "<img src=\"images/lemma.png\">"
+    },
+    {
+      "word": "Modulo operation",
+      "def": "The  operation returns the remainder or signed remainder of a division, after one number is divided by another (called the modulus of the operation).",
+      "rel": "ოპერაცია მოდულით",
+      "ex": "\"5 mod 3 = 2\",which means 2 is the remainder when you divide 5 by 3 ",
+      "img": "<img src=\"images/moduloop.png\">"
+    },
+    {
+      "word": "Ram",
+      "def": "Hardware location in a computer where the operating system, application programs, and data in current use is kept so that it can be quickly reached by the computer's processor",
+      "rel": "ოპერატიული მეხსიერება",
+      "ex": "Random Access Memory  determines how fast a computer can access information ",
+      "img": "<img src=\"images/ram.png\">"
+    },
+    {
+      "word": "Set",
+      "def": "A collection of any kind of distinct elements. In mathematics there are sets of numbers, letters, relations, even sets of sets.",
+      "rel": "კომპლექტი",
+      "ex": "A set of people, like a study group. A set of letters, like vowels. A set of integers, like from 1 to 10. ",
+      "img": "<img src=\"images/set.png\">"
+    },
+    {
+      "word": "Successor",
+      "def": "Someone or something that comes after another person or thing.",
+      "rel": "მემკვიდრე,მონაცვლე",
+      "ex": "The successor of 22 = 22 + 1 =23",
+      "img": "<img src=\"images/successor.png\">"
+    },
+    {
+      "word": "Reflexive",
+      "def": "having a relation to itself. In mathematics and logic, reflexive is one of the properties of a relation.",
+      "rel": "უკუქცევითი, რეფლექსური",
+      "ex": "≤ is reflexive, as it has a relation to itself, just like x ≤ x",
+      "img": "<img src=\"images/reflexive.png\">"
+    },
+    {
+      "word": "Transpose",
+      "def": "exchange places",
+      "rel": "გადანაცვლება",
+      "ex": "transposition of matrix rows and columns. ",
+      "img": "<img src=\"images/transpose.png\">"
+    },
+    {
+      "word": "Arbitrary",
+      "def": "means that there is no limit to the number of digits",
+      "rel": "უსასრულოდ",
+      "ex": "Arbitrary means \"undetermined; not assigned a specific value.\" For example, the statement x+x=2x is true for arbitrary values of x∈R, but the statement x+x=2 is not true for arbitrary values of x (only for a specific value: x=1)",
+      "img": "<img src=\"images/arbitrary.jpg\">"
+    },
+    {
+      "word": "Continuous",
+      "def": "Going on or extending without interruption or break. Forming an unbroken whole.",
+      "rel": "უსასრულო, განუწყვეტელი , უწყვეტი",
+      "ex": "The weight of newborn babies. The daily wind speed. The temperature of a freezer.",
+      "img": "<img src=\"images/continuous.png\">"
+    },
+    {
+      "word": "Magnitude",
+      "def": "How far away the math term is from zero. The magnitude is the distance the mathematical term is from zero",
+      "rel": "მაგნიტუდა ( მანძილი ნულიდან  ამ რიცხვამდე)",
+      "ex": "The magnitude of  -10 = 10. The magnitude of   10 = 10",
+      "img": ""
+    },
+    {
+      "word": "Discrete",
+      "def": "Apart or detached from others; Individually separate and distinct.",
+      "rel": "ნაწყვეტ-ნაწყვეტი, წყვეტილი, ცალკეული ნაწილებისაგან შემდგარი",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Ambiguous",
+      "def": "Open to more than one interpretation; not having one obvious meaning; In math an expression is said to be ambiguous (or poorly defined) if its definition does not assign it a unique interpretation or value. An expression which is not ambiguous is said to be well-defined.",
+      "rel": "ორაზროვანი,  გარკვეულობას მოკლებული.",
+      "ex": "ორაზროვანი,  გარკვეულობას მოკლებული.",
+      "img": ""
+    },
+    {
+      "word": "Intersection",
+      "def": "The intersection of two sets, X and Y, is the set of elements that are common to both X and Y. It is denoted by X ∩ Y, and is read \"X intersect Y\". So the intersection of two sets is the set of elements common to both sets. ",
+      "rel": "თანაკვეთა",
+      "ex": "The intersection of sets is a subset of each set forming the intersection. <br> A = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} , B = {2, 4, 7, 12, 14}  <br> A ∩ B = {2, 4, 7}",
+      "img": "<img id = \"temo\" src=\"images/intersection.png\">"
+    },
+    {
+      "word": "Union",
+      "def": "The union of two sets is a set containing all elements that are in A or in B (possibly both)",
+      "rel": "გაერთიანება",
+      "ex": "A = {1,2}, B = {2,3}  <br> A∪B = {1,2} ∪ {2,3} = {1,2,3}.",
+      "img": "<img src=\"images/union.png\">"
+    },
+    {
+      "word": "Difference",
+      "def": "Let A and B be sets. The difference of A and B, denoted by A -B, is the set containing those elements that are in A but not in B. The difference of A and B is also called the complement of B with respect to A",
+      "rel": "განსხვავება, სხვაობა",
+      "ex": "A= {1,2,3,5,7} B = {1,5,6,8} <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • A - B ={2,3,7}",
+      "img": "<img src=\"images/difference.png\">"
+    },
+    {
+      "word": "Correspondence",
+      "def": "an attribute of a shape or relation; exact reflection of form on opposite sides of a dividing line or plane",
+      "rel": "შესაბამისობა",
+      "ex": "If f : X → Y is onto then Y has at most as many elements as X",
+      "img": ""
+    },
+    {
+      "word": "Implicit",
+      "def": "Implicit functions, on the other hand, are usually given in terms of both  dependent and independent variables. ",
+      "rel": "",
+      "ex": "y + x<sup>2</sup> - 3x + 8 = 0",
+      "img": ""
+    },
+    {
+      "word": "Explicit",
+      "def": "Implicit functions, on the other hand, are usually given in terms of both  dependent and independent variables. ",
+      "rel": "y = x2 + 3x - 8 ",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Set",
+      "def": "A set is a collection of elements or numbers or objects, represented within the curly brackets { }",
+      "rel": "ერთობლიობა",
+      "ex": "{1,2,3,4} is a set of numbers",
+      "img": ""
+    },
+    {
+      "word": "Denote",
+      "def": "To represent something by a symbol; stand as a symbol for; to be a mark or sign of; indicate; ",
+      "rel": "აღნიშვნა",
+      "ex": "Addition sign is denoted by + <br> the absolute value is denoted | · |",
+      "img": ""
+    },
+    {
+      "word": "Induction",
+      "def": "Mathematical Induction is a mathematical technique which is used to prove a statement, a formula or a theorem is true for every natural number",
+      "rel": "ინდუქცია, დამტკიცება",
+      "ex": "1) Base case: Prove that P(0) is true. You do this directly. This is often easy. <br> <br> 2) Inductive case: Prove that P(k)→P(k+1) for all k≥0. That is, prove that for any k≥0 if P(k) is true, then P(k+1) is true as well.",
+      "img": ""
+    },
+    {
+      "word": "Product",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Disjoint",
+      "def": "In mathematics, two sets are said to be disjoint sets if they have no element in common. Disjoint sets are those sets whose intersection with each other results in a null set.",
+      "rel": "თანაუკვეთი",
+      "ex": "if we have X = {a, b, c} and Y = {d, e, f}, then we can say that the given two sets are disjoint since there are no common elements in these two sets X and Y.",
+      "img": ""
+    },
+    {
+      "word": "Commutative",
+      "def": "being a property of a mathematical operation (as addition or multiplication) in which the result does not depend on the order of the elements The commutative property of addition states that 1 + 2 and 2 + 1 will both have a sum of 3.",
+      "rel": "გადანაცვლებადობა",
+      "ex": "4 + 2 = 2 + 4",
+      "img": ""
+    },
+    {
+      "word": "Associative",
+      "def": "The associative property states that you can add or multiply regardless of how the numbers are grouped. ... In other words, if you are adding or multiplying it does not matter where you put the parenthesis",
+      "rel": "ჯუფთებადობა",
+      "ex": "a + (b + c) = (a + b) + c, and a(bc) = (ab)c",
+      "img": ""
+    },
+    {
+      "word": "Distributive",
+      "def": "multiplying the total of two addends by a number will give us the exact same result as multiplying each addend individually by the number and then adding them together",
+      "rel": "განრიგებადობა",
+      "ex": "a(b + c) = ab + ac",
+      "img": ""
+    },
+    {
+      "word": "Complement",
+      "def": "In set theory, the complement of a set A, are the elements not in A. In other words a set that contains the elements present in the universal set but not in set A.",
+      "rel": "კომპლემენტი",
+      "ex": "Set U = {2,4,6,8,10,12} and set A = {4,6,8}, then the complement of set A, A′ = {2,10,12}.",
+      "img": ""
+    },
+    {
+      "word": "Relation",
+      "def": "A relation is a rule matching up two sets of objects. Also relations are often represented by sets of ordered pairs. A relation is any association or link between elements of one set, called the domain or (less formally) the set of inputs, and another set, called the range or set of outputs.",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Mapping",
+      "def": "A function or mapping (Defined as f:X→Y) is a relationship from elements of one set X to elements of another set Y (X and Y are non-empty sets). X is called Domain and Y is called Codomain of function \"f\". Function \"f\" is a relation on X and Y such that for each x∈X, there exists a unique y∈Y such that (x,y)∈R.",
+      "rel": "ასახვა",
+      "ex": "f1: R→R, f1: x→x2 <br> f2: N→R,  f2: x→x2",
+      "img": ""
+    },
+    {
+      "word": "Domain",
+      "def": "The domain of a function is the set of all possible inputs for the function",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Identity",
+      "def": "An equation which is always true, no matter what values are substituted. In other words, equality relating one mathematical expression A to another mathematical expression B",
+      "rel": "იდენტურობა",
+      "ex": "2 x + 3 x = 5 x is an identity because 2 x + 3 x will always equal regardless of the value of . Identities can be written with the sign ≡, so the example could be written as. 2 x + 3 x ≡ 5 x",
+      "img": ""
+    },
+    {
+      "word": "Image",
+      "def": "Another name for Range of a Function. In other words the set of all output values of a function.",
+      "rel": "შედეგების ერთობლიობა",
+      "ex": "If x is a member of X, then the image of x under f, denoted f(x),[1] is the value of f when applied to x. f(x) is alternatively known as the output of f for argument x.",
+      "img": ""
+    },
+    {
+      "word": "Range",
+      "def": "the difference between the highest and lowest values in a set of numbers or the set of all elements which are assigned to at least one element of the domain by the function. That is, the range is the set of all outputs.",
+      "rel": "დიაპაზონი",
+      "ex": "consider the function f:N→N defined by f(x)=x^2+3. Here the domain and codomain are the same set (the natural numbers). This works because we can apply this rule to every natural number (every element of the domain) and the result is always a natural number (an element of the codomain). Notice though that not every natural number actually is an output (there is no way to get 0, 1, 2, 5, etc.). The set of natural numbers that are actually outputs is called the range of the function (in this case, the range is {3,4,7,12,19,28,…},  all the natural numbers that are 3 more than a perfect square).",
+      "img": ""
+    },
+    {
+      "word": "Injective",
+      "def": "Injective means we will not have two or more \"A\"s pointing to the same \"B\". So many-to-one is NOT OK (which is OK for a general function). As it is also a function one-to-many is not OK, But we can have a \"B\" without a matching \"A\". Injective is also called \"One-to-One\"",
+      "rel": "ინექცია",
+      "ex": "A function f is injective if and only if whenever f(x) = f(y), x = y. f(x) = x+5 from the set of real numbers real numbers to real numbers is an injective function. Imagine x=3, then: f(x) = 8. Now I say that f(y) = 8, what is the value of y? It can only be 3, so x=y. f(x) = x2 from the set of real numbers real numbers to real numbers is not an injective function because of this kind of thing: f(2) = 4 and f(-2) = 4. In other words there are two values of A that point to one B.",
+      "img": ""
+    },
+    {
+      "word": "Surjective",
+      "def": "Surjective means that every \"B\" has at least one matching \"A\" (maybe more than one). There will not be a \"B\" left out.",
+      "rel": "სურექცია",
+      "ex": "The function f(x) = 2x from the set of natural numbers natural numbers to the set of non-negative even numbers is a surjective function. BUT f(x) = 2x from the set of natural numbers natural numbers to natural numbers is not surjective, because, for example, no member in natural numbers can be mapped to 3 by this function.",
+      "img": ""
+    },
+    {
+      "word": "Graph",
+      "def": "A collection of points, called vertices, and lines between those points, called edges",
+      "rel": "გრაფი",
+      "ex": "A graph is a common data structure that consists of a finite set of nodes (or vertices) and a set of edges connecting them. ... For example, a single user in Facebook can be represented as a node (vertex) while their connection with others can be represented as an edge between nodes.",
+      "img": ""
+    },
+    {
+      "word": "Trivial",
+      "def": "A solution or example that is ridiculously simple and of little interest. Often, solutions or examples involving the number 0 are considered trivial. Nonzero solutions or examples are considered nontrivial.",
+      "rel": "ტრივიალური, მარტივი (ზედმეტი ძალისხმევის გარეშე მისახვედრი)",
+      "ex": "the equation x + 5y = 0 has the trivial solution x = 0, y = 0.",
+      "img": ""
+    },
+    {
+      "word": "Transitive",
+      "def": "Transitivity in mathematics is a property of relationships for which objects of a similar nature may stand to each other. If whenever object A is related to B and object B is related to C, then the relation at that end are transitive relations provided object A is also related to C",
+      "rel": "ტრანზიტულობა",
+      "ex": "Things which are equal to the same thing are also equal to one another. In mathematical notations: if A = B and B = C, then certainly A = C. This is a transitive relation!"
+    },
+    {
+      "word": "Plane",
+      "def": "In geometry, a plane is a flat surface that extends into infinity. ... A plane has zero thickness, zero curvature, infinite width, and infinite length. It is actually difficult to imagine a plane in real life; all the flat surfaces of a cube or cuboid, flat surface of paper are all real examples of a geometric plane.",
+      "rel": "ორგანზომილებიანი გრაფი",
+      "ex": "The discrete plane is defined as a union of faces of integral cubes that connect these points.",
+      "img": ""
+    },
+    {
+      "word": "Equivalence",
+      "def": "An equivalence relation is a relationship on a set, generally denoted by “∼”, that is reflexive, symmetric, and transitive for everything in the set",
+      "rel": "ეკვივალენტობა,ტოლფასობა",
+      "ex": "The relation “is equal to”, denoted “=”, is an equivalence relation on the set of real numbers since for any x, y, z ∈ R: <br> 1. (Reflexivity) x = x, <br> 2. (Symmetry) if x = y then y = x, <br> 3. (Transitivity) if x = y and y = z then x = z. <br> All of these are true",
+      "img": ""
+    },
+    {
+      "word": "Reflexive",
+      "def": "a homogeneous binary relation R on a set X is reflexive if it relates every element of X to itself.",
+      "rel": "რეფლექსური",
+      "ex": "An example of a reflexive relation is the relation \"is equal to\" on the set of real numbers, since every real number is equal to itself",
+      "img": ""
+    },
+    {
+      "word": "Coarse",
+      "def": "In the mathematical fields of geometry and topology, a coarse structure on a set X is a collection of subsets of the cartesian product X × X with certain properties which allow the large-scale structure of metric spaces and topological spaces to be defined.",
+      "rel": "",
+      "ex": "The trivial coarse structure only consists of the diagonal and its subsets. In this structure, a map is a coarse equivalence if and only if it is a bijection (of sets).",
+      "img": ""
+    },
+    {
+      "word": "Partition",
+      "def": "A partition of a set is a grouping of its elements into non-empty subsets, in such a way that every element is included in exactly one subset",
+      "rel": "განყოფა, განაწილება",
+      "ex": "The set {1, 2, 3} has these five partitions (one partition per item): <br> { {1}, {2}, {3} }, <br> { {1, 2}, {3} }, <br> { {1, 3}, {2} }, <br> { {1}, {2, 3} },  <br> { {1, 2, 3} }",
+      "img": ""
+    },
+    {
+      "word": "Representative",
+      "def": "very general relationship that expresses similarities (or equivalences) between mathematical objects or structures.",
+      "rel": "ნიმუში, ტიპიური წარმომადგენელი",
+      "ex": "A (partial) system of distinct representatives is a set of distinct elements {x1,x2,…xk} such that xi∈Aji, where j1,j2,…,jk are distinct integers in [n]. □",
+      "img": ""
+    },
+    {
+      "word": "Congruence",
+      "def": "A congruence relation (or simply congruence) is an equivalence relation on an algebraic structure (such as a group, ring, or vector space) that is compatible with the structure in the sense that algebraic operations done with equivalent elements will yield equivalent elements",
+      "rel": "შესაბანისობა; შეთანხმება",
+      "ex": "'hour arithmetic' on a 12-hour clock uses a modulus of m=12, so 10 o'clock (a.m.) plus five hours gives 10+5=3 (mod 12), or 3 o'clock (p.m.)",
+      "img": ""
+    },
+    {
+      "word": "Remainder",
+      "def": "An amount left over after division",
+      "rel": "ნაშთი",
+      "ex": "20 cannot be divided exactly by 6. The closest you can get without going over is 3 x 6 = 18, which is 2 less than 20. So 2 is the remainder",
+      "img": ""
+    },
+    {
+      "word": "Totality",
+      "def": "totality is the state of being total. An aggregate quantity obtained by addition. (Astronomy) the phase of an eclipse when it is total",
+      "rel": "მთლიანობა",
+      "ex": "Compare following examples: In the first picture the relation is left-total from X to X. (Every element has at least one arrow departing - C has even two arrows departing). While the (endo)relation is not total as in definition 2. In the second picture it is total as in in definition 2. It also seems to be left-total.",
+      "img": ""
+    },
+    {
+      "word": "Bound",
+      "def": "A set S of real numbers is called bounded from above if there exists some real number k (not necessarily in S) such that k ≥ s for all s in S. ... A set S is bounded if it has both upper and lower bounds. Therefore, a set of real numbers is bounded if it is contained in a finite interval",
+      "rel": "შეკრული",
+      "ex": "For example, the interval (−2, 3) is bounded above by 100, 15, 4, 3.55, 3. In fact 3 is its least upper bound. The interval (−2, 3] also has 3 as its least upper bound.",
+      "img": ""
+    },
+    {
+      "word": "Common",
+      "def": "referring to divisor. A quantity that is a factor of two or more quantities",
+      "rel": "საერთო გამყოფი",
+      "ex": "the GCD of 14 and 49 will be 7",
+      "img": ""
+    },
+    {
+      "word": "Lattice",
+      "def": "A lattice consists of a partially ordered set in which every two elements have a unique supremum (also called a least upper bound ) and a unique infimum (also called a greatest lower bound)",
+      "rel": "ლეტისი",
+      "ex": "The partial ordering on the left indicates a lattice because each pair of elements has both a least upper bound and greatest lower bound. In other words, each pair of elements is comparable. However, the partial ordering on the right is not a lattice because elements b and c are incomparable. Notice that while the upper bound for b and c is {d,e,f,g}, we can’t identify which one of these vertices is the least upper bound (LUB) — therefore, this poset is not a lattice.",
+      "img": ""
+    },
+    {
+      "word": "Isomorphic",
+      "def": "an isomorphism is a structure-preserving mapping between two structures of the same type that can be reversed by an inverse mapping",
+      "rel": "იზომორფული ",
+      "ex": "For example, both graphs are connected, have four vertices and three edges. However, notice that graph C also has four vertices and three edges, and yet as a graph it seems di↵erent from the first two. Isomorphism is the idea that captures the kind of sameness that we recognize between A and B, and which distinguishes both of them from C.",
+      "img": ""
+    },
+    {
+      "word": "Directed",
+      "def": "",
+      "rel": "მიმართული",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Ordering",
+      "def": "Putting things into their correct place following some rule.",
+      "rel": "განაწილება, განთავსება",
+      "ex": "put the numbers {5, 15, 7, 1, 8} into order from highest to lowest. Start at the highest (15) and go down: {15, 8, 7, 5, 1}",
+      "img": ""
+    },
+    {
+      "word": "Sequence",
+      "def": "a sequence is an enumerated collection of objects in which repetitions are allowed and order matters",
+      "rel": "მიმდევრობა, თანმიმდევრობა",
+      "ex": "For example, (T,A,B,L,E) is a sequence of letters with the letter 'T' first and 'E' last. This sequence differs from (B, A, L, E,T).",
+      "img": ""
+    },
+    {
+      "word": "Structure",
+      "def": "A set together with a collection of mathematical objects such as other sets, relations or operations which endow it with additional stucture.",
+      "rel": "სტრუქტურა",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Map",
+      "def": "a map is often used as a synonym for a function,[1] but may also refer to some generalizations. Originally, this was an abbreviation of mapping, which often refers to the action of applying a function to the elements of its domain",
+      "rel": "გამოსახულება , გამოსახვა",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Successively",
+      "def": "following in order or in uninterrupted sequence",
+      "rel": "მიყოლებით, თანმიმდევრულად",
+      "ex": "3 and 4 are successive whole numbers. <br> 7 and 9 are successive odd numbers",
+      "img": ""
+    },
+    {
+      "word": "Implication",
+      "def": "a relationship between two propositions in which the second is a logical consequence of the first. The statement “x implies y” means that if x is true, then y must also be true.",
+      "rel": "ის, რაც იგულისხმევა; ნაგულისხმევი მდგომარეობა",
+      "ex": "x = 2 implies x + 1 = 3.",
+      "img": ""
+    },
+    {
+      "word": "Power",
+      "def": "The power  of a number says how many times to use the number in a multiplication",
+      "rel": "ხარისხში აყვანა",
+      "ex": "7^2 = 7 × 7 = 49 <br>In this example the \"2\" says to use 7 two times in a multiplication",
+      "img": ""
+    },
+    {
+      "word": "Involution",
+      "def": "In mathematics, an involution is a function f that is its own inverse",
+      "rel": "ინვოლუცია",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Hamming",
+      "def": "the Hamming distance between two strings of equal length is the number of positions at which the corresponding symbols are different",
+      "rel": "",
+      "ex": "Hamming Distance between 1011101 and 1001001 is 2.",
+      "img": ""
+    },
+    {
+      "word": "Metric",
+      "def": "A metric  is a function that gives a distance between each pair of point elements of a set",
+      "rel": "მეტრიკა ",
+      "ex": "d(x,y)=0 if and only if x=y",
+      "img": ""
+    },
+    {
+      "word": "Statement",
+      "def": "in mathematics, a sentence that is either true or false, but not both ",
+      "rel": "პირობა",
+      "ex": "\"There exists a real number x, such that 2x+4 = 10\" is a statement",
+      "img": ""
+    },
+    {
+      "word": "Proposition",
+      "def": "A statement that is either true or false, but not both",
+      "rel": "დამტკიცება,მსჯელობა",
+      "ex": "2 + 2 = 4",
+      "img": ""
+    },
+    {
+      "word": "Disjunction",
+      "def": "when a connection between two statements is \"or\", we have a disjunction",
+      "rel": " განცალკევება, გათიშვა",
+      "ex": "2 + 2 is 4, or i am a carrot",
+      "img": ""
+    },
+    {
+      "word": "Conjunction",
+      "def": "when a connection between two statements is \"and\", we have a conjunction",
+      "rel": "შეერთება,კონიუნქცია ",
+      "ex": "2+2 is 4 and i am a carrot",
+      "img": ""
+    },
+    {
+      "word": "Composed",
+      "def": "in math, to compose means to take two functions g and f and produce function h from them ",
+      "rel": "შემდგარი",
+      "ex": "h(x) = g(f(x))",
+      "img": ""
+    },
+    {
+      "word": "Minterm",
+      "def": "In Boolean algebra, a product term in which each variable appears once.",
+      "rel": "",
+      "ex": "A boolean function can be expressed as a sum of minterms,  where each minterm corresponds to a row of the truth table whose output is 1.",
+      "img": ""
+    },
+    {
+      "word": "Yield",
+      "def": "produce, give something",
+      "rel": "გამომუშავება",
+      "ex": "New methods will yield good results in our research.",
+      "img": ""
+    },
+    {
+      "word": "Expansion",
+      "def": "In maths, an expansion of product of sums expresses it as a sum of products.",
+      "rel": "ფორმულის გაშლა",
+      "ex": "(2x+5)(3x+5) = 6x^2 + 10x + 15x + 25",
+      "img": ""
+    },
+    {
+      "word": "Summand",
+      "def": "something to be added",
+      "rel": "შესაკრები",
+      "ex": "1+2  = 3, 1 and 2 are summands",
+      "img": ""
+    },
+    {
+      "word": "Cyclical",
+      "def": "happening in cycles, recurrent",
+      "rel": "ციკლური",
+      "ex": "a clock is cyclical",
+      "img": ""
+    },
+    {
+      "word": "Elimination",
+      "def": "complete removal of something",
+      "rel": "მოშორება; ამოგდება",
+      "ex": "elimination method is used to solve linear systems by bringing the equation to one variable.",
+      "img": ""
+    },
+    {
+      "word": "Abstract",
+      "def": "something that has connections and dependence on real world objects removed, in order to be generalized to have a wider application field.",
+      "rel": "განყენებული ცნება",
+      "ex": "abstract concepts in mathematics reveal deep connections between different areas of science. ",
+      "img": ""
+    },
+    {
+      "word": "Encode",
+      "def": "convert into a coded form. to produce a mapping of a set A into the set of finite sequences B",
+      "rel": "დაშიფვრა ",
+      "ex": "cryptography is basically encoding and decoding",
+      "img": ""
+    },
+    {
+      "word": "Asymptotical",
+      "def": "",
+      "rel": "ასიმპტოტური",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Polynomial",
+      "def": "",
+      "rel": "მრავალწევრი",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Approximation",
+      "def": "",
+      "rel": "მიახლოება",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Superfluous",
+      "def": "",
+      "rel": "ზედმეტი",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Computation",
+      "def": "",
+      "rel": "გამოთვლა",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Expression",
+      "def": "",
+      "rel": "გამოსახულება",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Verification",
+      "def": "",
+      "rel": "გადამოწმება, ვერიფიკაცია",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Deterministic",
+      "def": "",
+      "rel": "დეტერმინიზმი",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Framework",
+      "def": "",
+      "rel": "ჩარჩო, აგებულება ??",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Empirical",
+      "def": "based on observation or experience instead of theory or pure logic. ",
+      "rel": "ემპირიული",
+      "ex": "conclusions made from surveys, studies",
+      "img": ""
+    },
+    {
+      "word": "Processing time",
+      "def": "the time it takes to complete a procedure",
+      "rel": "საპროცედურო(შესრულებისთვის საჭირო) დრო",
+      "ex": "processing time of an algorithm",
+      "img": ""
+    },
+    {
+      "word": "Induce",
+      "def": "give rise to something",
+      "rel": "გამოწვევა (რაღაცით)",
+      "ex": "his illness was induced by overwork",
+      "img": ""
+    },
+    {
+      "word": "Monotone",
+      "def": "without intonation, a sound that is unchanging in pitch. in math, a monotonic function is only increasing or decreasing",
+      "rel": "ერთფეროვანი",
+      "ex": "f(x) = 2x + 3 is a monotonic increasing function",
+      "img": ""
+    },
+    {
+      "word": "Corollary",
+      "def": "something that something that results from something else",
+      "rel": "დასკვნა",
+      "ex": "in math, a corollary is a theorem of less importance which can be readily deduced from a previous, more notable statement",
+      "img": "representable"
+    },
+    {
+      "word": "Representable",
+      "def": "in math, something that can be expressed in a certain symbolic form ",
+      "rel": "რაღაცით წარმოდგენილი (მაგ: სიმბოლოთ)",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Thereto",
+      "def": "to that, to that place",
+      "rel": "მას (რაც მას ეკუთვნის)",
+      "ex": "London, Oxford, and all the lands that thereto belonged",
+      "img": ""
+    },
+    {
+      "word": "Sufficient",
+      "def": "condition satisfied, statement true",
+      "rel": "საკმარისი",
+      "ex": "a sufficient condition if met, guarantees another event with no exceptions, but, a sufficient condition is not necessary for that event to happen. ",
+      "img": ""
+    },
+    {
+      "word": "Binomial",
+      "def": "an algebraic expression of the sum or the difference of two terms",
+      "rel": "ბინომი (ორი ალგებრული გამოსახულების ჯამი)",
+      "ex": "5+x is binomial",
+      "img": ""
+    },
+    {
+      "word": "Assumption",
+      "def": "a thing that is accepted as true, or certain to happen, without proof. ",
+      "rel": "ვარაუდი",
+      "ex": "assumption is similar to hypothesis in meaning",
+      "img": ""
+    },
+    {
+      "word": "Bipartite",
+      "def": "consisting of two parts, made by two separate parties.",
+      "rel": "ორმხრივი",
+      "ex": "you take a set of players, you divide these players in two teams, such that every player 1v1 enemy team player. ",
+      "img": ""
+    },
+    {
+      "word": "Vertice/vertex",
+      "def": "mathematical abstraction of an object, a node, a point. ",
+      "rel": "წვერო",
+      "ex": "you paint dots on a paper, dots are vertexes",
+      "img": ""
+    },
+    {
+      "word": "Edge",
+      "def": "in graph theory: a link or a line",
+      "rel": "ორი წეტილის (წვეროს) შემაერთებელი მონაკვეთი",
+      "ex": "you join dots with lines, lines are edges. ",
+      "img": ""
+    },
+    {
+      "word": "Incident",
+      "def": "something happening, an event or occurence. in math: a vertex and an edge are called incident, if they have a connection.",
+      "rel": "შემთხვევა",
+      "ex": "two objects that touch each other are said to be incident",
+      "img": ""
+    },
+    {
+      "word": "Matching",
+      "def": "going together well, suitably paired or used together. in math: a set of those edges in a graph, that do not share vertices.",
+      "rel": "შესატყვისი",
+      "ex": "a matching in a bipartite graph ",
+      "img": ""
+    },
+    {
+      "word": "Refinement",
+      "def": "the process of removing impurities or unwanted elements from a substance.",
+      "rel": "დახვეწა",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Comparability",
+      "def": "two elements of x and y of a set P are said to be comparable with respect to a binary relation  ≤  if at least one of x ≤ y or y ≤ x is true. ",
+      "rel": "შესადარებელი",
+      "ex": "don't compare apples to oranges.",
+      "img": ""
+    },
+    {
+      "word": "Counting",
+      "def": "to say numbers one after the other in order, or to calculate the number of people or things in a group",
+      "rel": "დათვლა",
+      "ex": "Teacher began counting how many students were present: \" One, two, three ... \"",
+      "img": ""
+    },
+    {
+      "word": "Combinatorial",
+      "def": "of or relating to the arrangement of, operation on, and selection of discrete mathematical elements belonging to finite sets or making up geometric configurations",
+      "rel": "კომბინატორული",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Fixed point",
+      "def": "A fixed point (sometimes shortened to fixpoint, also known as an invariant point) of a function is an element of the function's domain that is mapped to itself by the function",
+      "rel": "ფიქსირებული წერტილი",
+      "ex": "if f is defined on the real numbers by f(x) = x^2 - 3x + 4, then 2 is a fixed point of f, because f(2) = 2.",
+      "img": ""
+    },
+    {
+      "word": "Permutation",
+      "def": "permutation of a set is, loosely speaking, an arrangement of its members into a sequence or linear order, or if the set is already ordered, a rearrangement of its elements. The word \"permutation\" also refers to the act or process of changing the linear order of an ordered set",
+      "rel": "გადაჯგუფება; გადანაცვლება",
+      "ex": "For example, written as tuples, there are six permutations of the set {1, 2, 3}, namely (1, 2, 3), (1, 3, 2), (2, 1, 3), (2, 3, 1), (3, 1, 2), and (3, 2, 1)",
+      "img": ""
+    },
+    {
+      "word": "Recursion",
+      "def": "Recursion is a method of defining something in terms of previously defined values",
+      "rel": "რეკურსია",
+      "ex": "For example, fibonacci sequence. Fib(0) = 0, <br> Fib(1) = 1, for all integers n >1 ,Fib(n) = Fib(n-1) + Fib(n-2)",
+      "img": ""
+    },
+    {
+      "word": "Consideration",
+      "def": "Something considered as a reason or ground for a (possible) decision",
+      "rel": "მსჯელობა;მოსაზრება",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Prerequisite",
+      "def": "A course or topic that must be completed before another course or topic can be started",
+      "rel": " აუცილებელი პირობა , წინაპირობა",
+      "ex": "Algebra is typically a prerequisite for physics.",
+      "img": ""
+    },
+    {
+      "word": "Recurrence",
+      "def": "A recurrence relation is an equation that recursively defines a sequence or multidimensional array of values, once one or more initial terms of the same function are given",
+      "rel": "დაბრუნება,გამეორება",
+      "ex": "If we denote the nth term in the sequence by xn, such a recurrence relation is of the form X(n+1)=f(Xn) for some function f. One such example is X(n+1)=2−X(n)/2",
+      "img": ""
+    },
+    {
+      "word": "Coefficient",
+      "def": "A coefficient is a multiplicative factor in some term of a polynomial, a series, or any expression; it is usually a number, but may be any expression",
+      "rel": "კოეფიციენტი; მაჩვენებელი; მუდმივა",
+      "ex": "In the expression 3x, 3 is the coefficient but in the expression x^2 + 3, 1 is the coefficient of x^2",
+      "img": ""
+    },
+    {
+      "word": "Incidence",
+      "def": "partial coincidence of two figures, as of a line and a plane containing it",
+      "rel": "შემთხვევა",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Divisor",
+      "def": "A divisor of a number n is a number d which divides n (written d|n)",
+      "rel": "გამყოფი ",
+      "ex": "Suppose we have to divide the number 35(n) by 5(d).The number 5 is the divisor. It is the number(d) that divides the number 35(n)",
+      "img": ""
+    },
+    {
+      "word": "Harmonic number",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Integer",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Factorial",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Distinct",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Distinguish",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Prime",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Decomposition",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Reduce",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Index",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Array",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Iteration",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Derangement",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Conversely",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Converge",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Analogue",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Differentiation",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Quotient",
+      "def": "a result obtained by dividing one quantity by another",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Translation operator",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Scalar",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Exponent",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Extension",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Derivative",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Indefinite",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Approach",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Notation",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Divisibility",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Strict",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Value",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Estimate",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Compatible",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Homogeneous",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Consequently",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Running time",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Validation",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Execution",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Rounding",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Assertion",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Loop",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Hypercupe",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Vector",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Circuit",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Notion",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Adjacent",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Degree",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Deviation",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Bandwidth",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Labelling",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Induce",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Reachability",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Contradiction",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Acyclic",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Spanning",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Breadth",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Allocate",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Predecessor",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Weighted graph",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Matroid",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Admissible",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Algorithm",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Depiction",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Cardinality",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Equilibrium",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Transversal",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Saturated",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Alternating",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Heuristic",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Append",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Integrate",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Insertion",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Satisfy",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Quasi",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Assign",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Icosahedral",
+      "def": "A polyhedron is a 3D shape with flat polygonal faces, straight edges and sharp corners. Icosahedron is such a shape with 20 identical equilateral triangular sides. Has to do with lattice structures. ",
+      "rel": "იკოსაჰედრალი(ფიგურა)",
+      "ex": "Icosahedral basically means having properties of a shape described. has to do with quasi lattice structures. ",
+      "img": ""
+    },
+    {
+      "word": "Platonic solid",
+      "def": "A 3D shape where each face is the same regular polygon and the same numbers of polygons meet at each vertex(corner)",
+      "rel": "პლატონურად მყარი",
+      "ex": "Cube is a platonic solid: each face is a same-sized square, and at each corner 3 squares meet.",
+      "img": ""
+    },
+    {
+      "word": "Composition",
+      "def": "A mixture of things that are combined to form something. in math, compositions are operations that act on numbers of a set, and produce values that are in the same set",
+      "rel": "კომპოზიცია",
+      "ex": "Adding two integers will always produce another integer, therefore addition is a composition in the integers.",
+      "img": ""
+    },
+    {
+      "word": "Gcd",
+      "def": "Greatest common divisor. the largest possible divisor that two or more numbers can share.",
+      "rel": "უდიდესი საერთო გამყოფი (უსგ)",
+      "ex": "gcd(24, 36) = 12 gcd(9,12) = 3",
+      "img": ""
+    },
+    {
+      "word": "Lcm",
+      "def": "Least common multiple. the smallest positive number, than is a multiple of two or more numbers",
+      "rel": "უმცირესი საერთო ჯერადი",
+      "ex": "lcm(8,12) = 24 <br> lcm(3,6) = 12",
+      "img": ""
+    },
+    {
+      "word": "Cross product",
+      "def": "Also known as Cartesian Product; if we have two nonempty sets A and B, we take elements from each and bracket them as pairs. ",
+      "rel": "ვექტორული ნამრავლი",
+      "ex": "A = (1,2); B = (3,4); cross product is (1,3), (2,4)...etc.",
+      "img": ""
+    },
+    {
+      "word": "Bracketing",
+      "def": "Enclose, put in the same group with\"[ ]\",\"()\"",
+      "rel": "დაჯგუფება",
+      "ex": "You can do bracketing with [brackets], (parentheses), {braces} or <angled brackets>",
+      "img": ""
+    },
+    {
+      "word": "Commutative",
+      "def": "Same result, whatever the order of operands. ",
+      "rel": "კომუტაციური",
+      "ex": "a*b = b*a",
+      "img": ""
+    },
+    {
+      "word": "Generalization",
+      "def": "Common properties of some set elements combined in a concept",
+      "rel": "ზოგადი, განზოგადებული",
+      "ex": "Dogs are better then cats is a generalization",
+      "img": ""
+    },
+    {
+      "word": "Unity",
+      "def": "When combined with another number in a certain mathematic operation, the number combined with the identity remains unchanged.",
+      "rel": "a+0 = a, 0 is unity  or identity under addition <br> a*1 = a, 1 is unity under multiplication",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Idempotence",
+      "def": "unchanging .a property of certain operations whereby they can be used multiple times without changing the result after first use. ",
+      "rel": "",
+      "ex": "17 * 0 = 0 , if i keep multiplying it by 0, it will still be 0. ",
+      "img": ""
+    },
+    {
+      "word": "Amalgamation",
+      "def": "The action, process, or result of combining or uniting. In math, it is a property of a collection of structures, by which two structures in that collection can be seen as substructures of a larger one",
+      "rel": "შერწყმა",
+      "ex": "Amalgamation property of a puzzle",
+      "img": ""
+    },
+    {
+      "word": "Dihedral",
+      "def": "Something that has, or is formed by two intersecting spaces",
+      "rel": "დიჰედრალი (ნახევრად სიბრტყე საერთო სწორი ხაზით)",
+      "ex": "Angle between two planes is dihedral",
+      "img": ""
+    },
+    {
+      "word": "Equilateral",
+      "def": "Having all its sides of the same length",
+      "rel": "ტოლგვერდა",
+      "ex": "Equilateral triangle has all degrees equal to 60",
+      "img": ""
+    },
+    {
+      "word": "Weakening",
+      "def": "As a condition, a “weak” condition is one that doesn't require much.",
+      "rel": "შესუსტება, სუსტი",
+      "ex": "If you are a dog, then you are a mammal. Knowing you are a dog is much more informative (stronger information) than merely knowing you are a mammal. \"You are a mammal is a weaker statement. ",
+      "img": ""
+    },
+    {
+      "word": "Resolution",
+      "def": "The act or process of solving; solution.",
+      "rel": "გადაჭრა,გადაწყვეტილება ",
+      "ex": "The resolution of an equation.",
+      "img": ""
+    },
+    {
+      "word": "Cancellation",
+      "def": "Removing subexpressions from the main expression without changing the outcome",
+      "rel": "გაუქმება",
+      "ex": "\"5x = 5x\" == \"x = x\"",
+      "img": ""
+    },
+    {
+      "word": "Rotation",
+      "def": "Turning around center or some axis. ",
+      "rel": "მობრუნება",
+      "ex": "Earth rotation around its' axis",
+      "img": ""
+    },
+    {
+      "word": "Minimality",
+      "def": "The quality or fact of being minimal.",
+      "rel": "მინიმალიზმი",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Generation",
+      "def": "In math, creation of something",
+      "rel": "შექმნა",
+      "ex": "The act of producing offspring or multiplying by such production",
+      "img": ""
+    },
+    {
+      "word": "Axis",
+      "def": "An imaginary line about which a body rotates",
+      "rel": "ღერძი",
+      "ex": "The Earth revolves on its axis once every 24 hours",
+      "img": ""
+    },
+    {
+      "word": "Modular",
+      "def": "Based on a modulus, like a clock which is modular, starting again from 0 every 12th hour.",
+      "rel": "მოდულური არითმეტიკა",
+      "ex": "Time is measured with modular arithmetic",
+      "img": ""
+    },
+    {
+      "word": "Factor ",
+      "def": "A number or algebraic expression that divides another number or expression evenly—i.e., with no remainder. In other words multiplying two whole numbers give a product. these two numbers are factors",
+      "rel": "ფაქტორი (უნაშთოდ გამყოფი)",
+      "ex": "3 and 5 are factors of 15. 15 = 3x5",
+      "img": ""
+    },
+    {
+      "word": "Residue",
+      "def": "In context of division, simply a remainder",
+      "rel": "ნაშთი",
+      "ex": "Residue R of integer A(in modulo N) is a value 0 <= R <= N-1, such that A = KN + R",
+      "img": ""
+    },
+    {
+      "word": "Divisor",
+      "def": "A number that divides another number without remainder",
+      "rel": "გამყოფი",
+      "ex": "20/4=5 . 4 is a divisor of 20",
+      "img": ""
+    },
+    {
+      "word": "Integral",
+      "def": "Something that is necessary to the completeness of the whole thing. In math it also means being denoted by an integer, or has a meaning in derivative calculus.",
+      "rel": "ინტეგრალი",
+      "ex": "Integrals, together with derivatives are fundamental objects of calculus",
+      "img": ""
+    },
+    {
+      "word": "Totient",
+      "def": "It is a property of a number which shows a quantity of numbers less than, and sharing no common factors with, a given number",
+      "rel": "ტოტიენტი (ეილერის ფუნქცია)",
+      "ex": "Totient of 10 is 4. list of those 4 numbers are 1, 3, 7, 9. ",
+      "img": ""
+    },
+    {
+      "word": "Commutative",
+      "def": "The operation will give same results regardless of order ",
+      "rel": "კომუტაციური",
+      "ex": "a+b = b+a is commutative ",
+      "img": ""
+    },
+    {
+      "word": "Transposition",
+      "def": "Action of two or more things exchanging places. to move something from one side of an equation to another",
+      "rel": "გადაადგილება",
+      "ex": "123, 132, 321, 312",
+      "img": ""
+    },
+    {
+      "word": "Coset",
+      "def": "A subset of a group, formed by a consistent operation of a given element of the group on the left or right of all elements of a subgroup.",
+      "rel": "მომიჯნავე კლასი",
+      "ex": "Cosets of 5Z in Z are: <br> 5Z={…,−5,0,5,…} <br>  1+5Z={…,−4,1,6,…},<br> 2+5Z={…,−3,2,7,…},",
+      "img": ""
+    },
+    {
+      "word": "Characteristic",
+      "def": "The least number of times the multiplicative identity in a ring needs to be added to itself to reach the additive identity.",
+      "rel": "მახასიათებელი",
+      "ex": "The integers have a characteristic of zero; the integers modulo 12 have a characteristic of 12. ",
+      "img": ""
+    },
+    {
+      "word": "Irreducible",
+      "def": "Something that you can't make smaller or not simplifiable ",
+      "rel": "შეუცვლელი",
+      "ex": "They thought the world was made up of four irreducible elements: earth, air, fire, and water.",
+      "img": ""
+    },
+    {
+      "word": "Substitute",
+      "def": "A strategy for solving systems of equations that include solving for one variable and using that solution to find the other variable. In other words replace.",
+      "rel": "შეცვლა, შემცვლელი, ჩანაცვლება",
+      "ex": "Nothing could substitute for mother's milk.",
+      "img": ""
+    },
+    {
+      "word": "Normed",
+      "def": "Being a mathematical entity upon which a norm is defined",
+      "rel": "განსაზღვრული (ჩამოყალიბებული)",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Adjunction",
+      "def": "Joining of two sets to make a larger set or a relation, without overlapping ",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "Transcendent",
+      "def": "Not algebraic number",
+      "rel": "ტრანსცენდენტური (ტრანსცენდენტური რიცხვები)",
+      "ex": "Trancendental numbers like pi and e",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    },
+    {
+      "word": "",
+      "def": "",
+      "rel": "",
+      "ex": "",
+      "img": ""
+    }
+  ]

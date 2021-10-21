@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+        <title>Dictionary</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+        <div class="header">
+                <h1>KIU Dictionary</h1>
+        </div>
+
+        <div class="wrapper">
+                <div class="words" id = "luka">
+                        <input type="text" id="search" oninput="search()" placeholder="search ...">
+                        <button onclick="search()">Go</button>
+
+                        <ul id="word_list"></ul>
+                </div>
+
+                <div class="word">
+                        <h3 id="word_text"></h3>
+                        <p id="definition"></p>
+
+                        <hr>
+
+                        <h3>Translation</h3>
+                        <li id="related"></li>
+
+                        <hr>
+
+                        <h3>Example</h3>
+                        <p id="example"></p>
+
+                        <hr>
+
+                        <h3>Image</h3>
+                        <p id="img"></p>
+                        <!-- <img src="axiom.png"> -->
+                        <p id="demo"></p>
+
+                </div>
+        </div>
+</body>
+
+</html>
+<script type="text/javascript" src="js/index.js"></script>
